@@ -23,7 +23,7 @@
 
 ## Overview
 
-Career Copilot helps students navigate the critical Class 10 → Class 11 transition. A student enters their favourite subjects, key skills, and areas of interest. The hybrid AI engine scores all 12 academic streams and returns a ranked recommendation with match scores, mapped courses, career pathways, and targeted follow-up questions when the result is ambiguous.
+Career Copilot helps students navigate the critical Class 10 → Class 11 transition. A student enters their favourite subjects, key skills, and areas of interest. The hybrid AI engine scores all 12 academic streams and retUrns a ranked recommendation with match scores, mapped courses, career pathways, and targeted follow-up questions when the result is ambiguous.
 
 ---
 
